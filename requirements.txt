@@ -1,0 +1,8 @@
+pandas
+matplotlib
+streamlit
+plotly
+seaborn
+numpy
+pyspark
+random2
